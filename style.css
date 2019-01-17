@@ -1,0 +1,9 @@
+html, body: {
+    height: 100%;
+}
+table: {
+    margin: 3px;
+}
+tr: {
+    margin: 3em;
+}
